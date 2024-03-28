@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+/* 영문폰트 */
+
+
+
+/* 한글폰트 */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap'); /*font-family:Noto Sans KR*/
+
+
+/* 
+-프로젝트에 필요한 폰트만 설정하면 됨
+-여러 프로젝트(작업파일, 포폴파일)에서 사용할 폰트를 모두 모아서 필요할 떄 연결
+ */
